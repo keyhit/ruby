@@ -18,3 +18,13 @@ using
 	- using rvm use 2.2.3
 	check version
 	- ruby -v
+to start working with console - input 
+    irb
+to start any ruby script do not use irb use only
+		ruby xxx.rb # name of script file
+
+show installed ruby
+		rvm list
+
+show ruby gems 
+		
